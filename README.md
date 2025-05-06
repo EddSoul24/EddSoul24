@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm Edd  
 
 🎓 I'm a passionate techie with a Master of Information Technology (Computer Science), and a Bachelor of Engineering in Software and Interactive Media.  
 🛠️ I also hold diplomas in Software Development, 3D & Interactive Games, and Management & Leadership.
